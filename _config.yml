@@ -1,3 +1,5 @@
+url: https://mta-sts.andre.al
+
 include:
   - .htaccess
   - .well_known
